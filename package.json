@@ -1,0 +1,13 @@
+{
+  "name": "midway-demo-lib",
+  "version": "1.0.2",
+  "dependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.12.18",
+    "midway-mock": "1",
+    "typescript": "^3.2.0",
+    "tslint": "^5.9.1",
+    "tslib": "^1.8.1",
+    "ts-node": "^7.0.0"
+  }
+}
